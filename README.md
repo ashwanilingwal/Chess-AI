@@ -14,4 +14,4 @@ Chess-AI
   
      3. Move ordering can be introduced in the algorithm.
   
-5.Chess game cann be played on the given link: https://rocky-castle-85316.herokuapp.com/ 
+5.Chess game can be played on the given link: https://rocky-castle-85316.herokuapp.com/ 
