@@ -6,6 +6,8 @@ Chess-AI
 3. To take into account the the position of pieces rather than just relative strength of pieces a new. For example, a knight on the center of the board is better (because it has more options and is thus more active) than a knight on the edge of the board. I have used slightly adjusted version of piece-square tables that are originally described in the https://chessprogramming.wikispaces.com/Simplified+evaluation+function
 
 
+
+
 4.Some further improvements we could make to the algorithm would be for instance:
 
      1. Multithreading can be introduced in order to decrease run time.
@@ -15,3 +17,4 @@ Chess-AI
      3. Move ordering can be introduced in the algorithm.
   
 5.Chess game can be played on the given link: https://rocky-castle-85316.herokuapp.com/ 
+
